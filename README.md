@@ -5,7 +5,7 @@
 - [ASP.NET Core 5 and Angular](https://www.amazon.com/ASP-NET-Core-Angular-Full-stack-development/dp/1800560338/?tag=ryadel-20) (Packt Publishing)
 - [ASP.NET Core 6 and Angular](https://www.amazon.com/ASP-NET-Core-Angular-Full-stack-development/dp/1803239700/?tag=ryadel-20) (Packt Publishing)
 - [ASP.NET Core 8 and Angular](https://www.amazon.com/ASP-NET-Core-Angular-Full-stack-development/dp/1805129937/?tag=ryadel-20) (Packt Publishing)
-- - [Building Web APIs with ASP.NET Core](https://www.amazon.com/Building-Web-APIs-ASP-NET-Core/dp/1633439488/?tag=ryadel-20) (Manning Publications)
+- [Building Web APIs with ASP.NET Core](https://www.amazon.com/Building-Web-APIs-ASP-NET-Core/dp/1633439488/?tag=ryadel-20) (Manning Publications)
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/darkseal/)
